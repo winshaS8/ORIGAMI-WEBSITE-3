@@ -16,13 +16,13 @@
 }
   
   .grid {
-    background: darkred;
+   background: darkred;
     background-color: #F0F8FF;
     display: flex;
-    flex-wrap: wrap;
-    justify-content:space-between;
-    /* flex-direction: row; */
-    /* text-align: left; */
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap; 
     
   }
   
